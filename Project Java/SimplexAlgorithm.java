@@ -46,7 +46,7 @@ public class SimplexAlgorithm{
 			}
 			System.out.println(" ");
 		}
-        System.out.println(" prueba");
+        System.out.println("Holi probando ");
 	
     }
 }
