@@ -47,5 +47,5 @@ public class SimplexAlgorithm{
 			System.out.println(" ");
 		}
 	
-}
+    }
 }
